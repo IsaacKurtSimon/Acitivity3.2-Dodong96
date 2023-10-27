@@ -10,7 +10,7 @@
 
 ##	Write the SQL query in the "hero sql" section below the specified requirement in the file.
 
-/*1.	Create a new branch named "feat/create-tables"
+/*1.	Create a new branch named "feat/create-tables" 
 
 	Add the provided SQL code line to your "hero.sql" file. 
 	(Refer to the sample output below for the syntax of creating six tables.)*/
