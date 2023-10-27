@@ -1,4 +1,4 @@
-## 	Rubriks:	
+## 	Rubriks
 	Each of the following is worth 5 points, with 3 points allocated for each branch/ commit 
 	and 2 points awarded for a correct query.
 	
