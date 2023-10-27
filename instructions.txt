@@ -35,7 +35,7 @@
 	List the player names and their corresponding hero names that are actively in
 	use during gameplay, excluding those with inactive heroes.*/
 	
-/*6	Create new branch named "feat/select-heroes-archers"
+/*6	Create new branch named 
 
 	Provide a list of heroes classified as archers.*/
 	
